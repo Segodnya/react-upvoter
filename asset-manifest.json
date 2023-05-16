@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-upvoter/static/css/main.4929510b.css",
+    "main.js": "/react-upvoter/static/js/main.bc9de599.js",
+    "static/js/787.57bf206c.chunk.js": "/react-upvoter/static/js/787.57bf206c.chunk.js",
+    "index.html": "/react-upvoter/index.html",
+    "main.4929510b.css.map": "/react-upvoter/static/css/main.4929510b.css.map",
+    "main.bc9de599.js.map": "/react-upvoter/static/js/main.bc9de599.js.map",
+    "787.57bf206c.chunk.js.map": "/react-upvoter/static/js/787.57bf206c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4929510b.css",
+    "static/js/main.bc9de599.js"
+  ]
+}
