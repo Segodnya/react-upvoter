@@ -10,6 +10,10 @@
 
 https://console.firebase.google.com/u/0/project/albums-upvote/overview
 
+## Github Pages
+
+https://segodnya.github.io/react-upvoter/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -38,3 +42,5 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run deploy`
+
+Выполнит сборку проекта и разместит его на хостинге Github Pages.
